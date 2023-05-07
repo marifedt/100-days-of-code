@@ -27,5 +27,16 @@
 **Thoughts** I've been studying React Concepts and I struggled on deciding where could I start applying those concepts. Then I decided to do this project. I'm looking forward to learn a lot of new things in the process.
 
 **Link(s) to work**
-https://github.com/marifedt/twitter-sidebar-clone
 - [Twitter Sidebar Clone](https://github.com/marifedt/twitter-sidebar-clone)
+
+### Day 2: May 06, Saturday
+
+**Today's Progress**: Continued to learn React
+
+**Thoughts** I'm still struggling on getting familiar with React Components. I didn't have much time today to code so I decided to continue to understand about the Event handlers inside a Component, passing that Event handler from a Parent to a Children component. Then I started the concept about State which I needed to continue for the project.
+
+**Link(s) for Resource**
+- [Event Handlers](https://react.dev/learn/responding-to-events)
+- [State](https://react.dev/learn/state-a-components-memory)
+
+
