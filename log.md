@@ -39,4 +39,13 @@
 - [Event Handlers](https://react.dev/learn/responding-to-events)
 - [State](https://react.dev/learn/state-a-components-memory)
 
+## Day 3: May 07, Sunday
+
+**Today's Progress**: Getting familiar with Leetcode (Solved 2 problems - from beginner's guide)
+
+**Thoughts** I was working half of the day so I only had time during the nights. I was a bit tired so I decided to get familiar with Leetcode during this time. Time complexity and Space complexity are the things mentioned when I reviewed the problems so I would take the time to learn about it.
+
+**Link(s) for Leetcode problems**
+- [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
 
