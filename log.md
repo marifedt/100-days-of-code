@@ -65,3 +65,4 @@
 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - [FreeCodeCamp's React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+- [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
