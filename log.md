@@ -49,3 +49,19 @@
 - [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
 
+## Day 4: May 08, Monday
+
+**Today's Progress** : Took a break from coding to organize my school courses
+
+**Thoughts** I decided to relax before the week starts because school starts again.
+
+## Day 5: May 09, Tuesday
+
+**Today's Progress** : Spent my time learning about React State and Time Complexity
+
+**Thoughts** I started to follow through with FreeCodeCamp's React course because I am struggling with following through with the React's documentation on their website. I also solved problems on Leetcode today to continue the beginner's guide.
+
+**Link(s) to Resource/s**
+- [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+- [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [FreeCodeCamp's React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
