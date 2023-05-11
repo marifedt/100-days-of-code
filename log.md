@@ -66,3 +66,16 @@
 - [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - [FreeCodeCamp's React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
 - [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
+
+## Day 6: May 10, Wednesday
+
+**Today's Progress** : 
+- Learned about Mockaroo and how that helps to generate substantial data to work with testing a Web service. 
+- I learned about ThunderClient.
+- A little bit about Python because of my Data structures class
+
+**Thoughts** ThunderClient is a good tool especially when you want to save time and opt not to work on the interface while still able to test the routes of what you're building. I can't wait to build out different web services.
+
+**Link(s) to Resource/s**
+- [Mockaroo](https://mockaroo.com/)
+- [ThunderClient](https://www.thunderclient.com/)
