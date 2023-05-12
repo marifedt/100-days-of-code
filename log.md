@@ -79,3 +79,15 @@
 **Link(s) to Resource/s**
 - [Mockaroo](https://mockaroo.com/)
 - [ThunderClient](https://www.thunderclient.com/)
+
+## Day 7: May 11, Thursday
+
+**Today's Progress** :
+- Continued with the twitter sidebar clone
+  - Added Profile component
+  - Used ES6 class syntax for the React component
+
+**Thoughts** I didn't have much time to code today because of my classes. Still, I had fun applying what I learned from the freeCodeCamp's React course. 
+
+**Link(s) to work**:
+- [Twitter Sidebar Clone](https://github.com/marifedt/twitter-sidebar-clone)
