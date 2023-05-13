@@ -91,3 +91,23 @@
 
 **Link(s) to work**:
 - [Twitter Sidebar Clone](https://github.com/marifedt/twitter-sidebar-clone)
+
+## Day 8: May 12, Friday
+
+**Today's Progress** :
+- Learned to use codespaces on GitHub
+- Python Basics 
+  - Dictionaries
+  - Traversing through a `list` and counting the occurences of an element
+  - Basic Types and Variables
+  - Iteration
+- Microsoft Project LinkedIn Learning Course
+- Read about JavaScript Promise
+
+**Thoughts** I was at school the whole day doing exercises for each class and worked on labs. I had a lot of new concepts that are introduced to me and I'm pretty sure I won't remember every single thing. I'll continue on the upcoming days to try and apply these new learnings I got by doing. I had fun learning Python basics, I'm still not used to the syntax and I'm missing the brackets. 😅
+
+**Link(s) to Resource/s**
+- [Codespaces](https://github.com/features/codespaces)
+- [Python Basics](https://www.w3schools.com/python/python_intro.asp)
+- [Microsoft Project Certificate](https://www.linkedin.com/learning/certificates/980781f3154a8dfa6558da1054e84067d8fdd060c4ee4d7e8ede9cbebc7ae2e5)
+- [JavaScript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
