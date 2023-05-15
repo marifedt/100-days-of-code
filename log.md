@@ -111,3 +111,23 @@
 - [Python Basics](https://www.w3schools.com/python/python_intro.asp)
 - [Microsoft Project Certificate](https://www.linkedin.com/learning/certificates/980781f3154a8dfa6558da1054e84067d8fdd060c4ee4d7e8ede9cbebc7ae2e5)
 - [JavaScript Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+## Day 9: May 13, Saturday
+
+**Today's Progress**:
+- Continued to learn about Python
+  - Conditional Execution
+  - Functions
+
+**Thoughts** It was a tiring day but I'm glad I was still able to make some progress with learning Python. I really needed it for my Data structures class.
+
+**Link to Resource**: [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody)
+
+## Day 10: May 14, Sunday
+
+**Today's Progress**: It is a well spent break as I got the chance to celebrate Mother's day with my family.
+
+**Thoughts** I really wanted to do something for today but we got home late and I didn't have the much needed energy to focus and sit in front of my computer.
+
+
+
