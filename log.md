@@ -164,10 +164,10 @@
 **Thoughts** TMI. I also need to do lots of readings to make my essay for my other non-tech class so I will have less time to do things related to tech for the next couple of days.
 
 **About the API**:
-Routes:
-- Getting trips on page 2 and shows 10 trips on one page: `/api/trips?page=2&perPage=10`
-- Getting a single trip by Id: `/api/trips/572bb8222b288919b68abf5a`
-- Also exists are routes for Updating, Adding, and Deleting
+- Routes:
+  - Getting trips on page 2 and shows 10 trips on one page: `/api/trips?page=2&perPage=10`
+  - Getting a single trip by Id: `/api/trips/572bb8222b288919b68abf5a`
+  - Also exists are routes for Updating, Adding, and Deleting
 
 **Link to Resource(s)**:
 - [Trips API](https://erin-odd-piglet.cyclic.app/)
