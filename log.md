@@ -129,5 +129,48 @@
 
 **Thoughts** I really wanted to do something for today but we got home late and I didn't have the much needed energy to focus and sit in front of my computer.
 
+## Day 11: May 15, Monday
 
+**Today's Progress** :
+- String Functions: upper() and lower()
+- Fibonacci Problem
+- Python Classes
+
+**Thoughts** I spent my time solving my python lab assignment that is why I focused on learning concepts about Python while I was trying to solve a problem. It makes me productive as I was applying the new things I've learned.
+
+## Day 12: May 16, Tuesday
+
+**Today's Progress**:
+> It's React Day 😊
+
+- Passing callback functions as Props to children components
+- Lifecycles Methods (willMount, didMount, willUnmount)
+- Event Listeners (and how I could put it in didMount and removing it on willUnmount)
+- shouldComponentUpdate function that re-renders the component
+- Readings for non-tech courses
+
+**Thoughts** I've been really busy trying to balance my tech courses and non-tech courses (cause it is a research class) But hopefully I'll get past the hardest part soon so I could focus on tech for the most part. Anyway, I always like to learn new concepts about React since I find the new concepts cool and very useful.
+
+**Link to Resource**:
+- [freeCodeCamp's React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+
+## Day 13: May 17, Wednesday
+
+**Today's Progress**:
+- Finish Web API assignment that uses the sample data set of Mongo DB (trips)
+- Solved LeetCode problems
+- Understanding Algorithm Analysis
+
+**Thoughts** TMI. I also need to do lots of readings to make my essay for my other non-tech class so I will have less time to do things related to tech for the next couple of days.
+
+**About the API**:
+Routes:
+- Getting trips on page 2 and shows 10 trips on one page: `/api/trips?page=2&perPage=10`
+- Getting a single trip by Id: `/api/trips/572bb8222b288919b68abf5a`
+- Also exists are routes for Updating, Adding, and Deleting
+
+**Link to Resource(s)**:
+- [Trips API](https://erin-odd-piglet.cyclic.app/)
+- [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
+- [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
