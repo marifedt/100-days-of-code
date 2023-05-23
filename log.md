@@ -199,3 +199,20 @@
 - [Step Count Method](https://www.geeksforgeeks.org/step-count-method-for-time-complexity-analysis/)
 - [Leaflet](https://leafletjs.com/)
 - [Factory Functions](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern)
+
+## Day 19: May 23, Tuesday
+
+**Today's Progress**:
+- Started a project that works with an existing news API
+- Used Express for the server
+
+**Thoughts**:
+- The documentation of the API helped me to navigate the routes I could use for the request
+- Although I can't host it cause I only used the developer version.
+
+**Link to Resource(s)**:
+- [News API](https://newsapi.org/)
+
+### Screenshot of the Site
+![image](https://github.com/marifedt/100-days-of-code/assets/57739727/d5fd45c6-21fd-4b92-8eb2-d54e687acc60)
+
