@@ -174,3 +174,28 @@
 - [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)
 - [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/)
 
+## Days 14-15: May 18-19, Thursday & Friday
+**Progress**:
+- Use Bootstrap for UI and make use of tester APIs to practice working with data using Fetch API.
+- Linear Search and Binary search
+- Difference of Waterfall vs Agile Project Management
+
+**Link to Resource(s)**:
+- [Agile Methodology](https://www.freecodecamp.org/news/agile-methods-and-methodology-for-beginners/)
+
+## Days 16-18: May 20-22, Saturday - Monday
+
+**Progress**:
+- Reviewed Algorithm Analysis (DSA)
+    - read about Step count method
+- Include a map using leaflet library
+- Finished a simple UI for showing Trips
+        - fetch data from the TripsAPI I prev. created.
+- Factory Functions vs. Constructors
+
+**Thoughts** I spent lots of time reading resources about Algo analysis and I feel like my understanding is not enough for me to explain it with others.
+
+**Link to Resource(s)**:
+- [Step Count Method](https://www.geeksforgeeks.org/step-count-method-for-time-complexity-analysis/)
+- [Leaflet](https://leafletjs.com/)
+- [Factory Functions](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern)
