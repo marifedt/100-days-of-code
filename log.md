@@ -216,3 +216,31 @@
 ### Screenshot of the Site
 ![image](https://github.com/marifedt/100-days-of-code/assets/57739727/d5fd45c6-21fd-4b92-8eb2-d54e687acc60)
 
+## Day 20-22: May 24-26, Wednesday-Friday
+
+**Progress**:
+- Solved Leetcode problems
+- Intro to NextJS
+- Data Structures and Algorithms
+  - Recursion
+  - Searching and Sorting
+     - Bubble Sort
+     - Insertion Sort
+     - Selection Sort
+     - Merge Sort
+- Project Integration Management
+  - Net Present Value Analysis
+  - Payback Analysis
+
+**Thoughts**
+It was a tough three days for me because there is a lot going on at school. But overall it was a productive week. I hope to get more time for the next but concepts at school is getting more complicated.
+
+**Link to Resource(s)**
+- Leetcode problems:
+  - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+  - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+  - [Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [Project Management Textbook](https://senecacollege.primo.exlibrisgroup.com/permalink/01SENC_INST/hnf7bu/alma996944113503226)
+- [DSA Notes - Seneca](https://seneca-ictoer.github.io/data-structures-and-algorithms/D-Searching-And-Sorting/intro-to-search-and-sort)
+
