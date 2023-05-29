@@ -244,3 +244,14 @@ It was a tough three days for me because there is a lot going on at school. But 
 - [Project Management Textbook](https://senecacollege.primo.exlibrisgroup.com/permalink/01SENC_INST/hnf7bu/alma996944113503226)
 - [DSA Notes - Seneca](https://seneca-ictoer.github.io/data-structures-and-algorithms/D-Searching-And-Sorting/intro-to-search-and-sort)
 
+## Day 23: May 27, Saturday
+
+**Today's Progress**: Took a break since I have to focus on finishing my non-tech readings that I need for my course essay. 
+
+**Thoughts** It's getting busier in the middle of the term so I badly needed the break after work.
+
+## Day 24: May 28, Sunday
+
+**Today's Progress**: Reviewed about Time complexity by comparing different approaches of solution to the same problem. 
+
+**Thoughts** Only had time to study after dinner since I had to work. Writing essays takes most of my time these days. 
