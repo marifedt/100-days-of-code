@@ -255,3 +255,36 @@ It was a tough three days for me because there is a lot going on at school. But 
 **Today's Progress**: Reviewed about Time complexity by comparing different approaches of solution to the same problem. 
 
 **Thoughts** Only had time to study after dinner since I had to work. Writing essays takes most of my time these days. 
+
+## Day 25: May 29, Monday
+
+**Today's Progress**: 
+- I took the time to study about Next.js
+- Solve the daily LeetCode problem
+
+**Thoughts** I still had my priority to finish my research requirement so my time is limited during the week. Reading articles and peer-reviewed articles is really exhausting.
+
+**Link to Resource(s)**
+- [Design Parking System](https://leetcode.com/problems/design-parking-system/)
+- [Next.js](https://nextjs.org/docs) 
+   - Course materials
+
+## Days 26-28: May 30 - June 01
+**Progress**
+- Solved LeetCode problems
+- Linked Lists and Sentinel nodes
+- Pre-render Data on Next.js
+- Project Scope Management
+  - Work Breakdown Structure
+ 
+**Thoughts** Feeling overwhelmed with all the readings on my courses🥺
+
+**Link to Resource(s)**
+- [Two Sum](https://leetcode.com/problems/two-sum/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [Roman Integer](https://leetcode.com/problems/roman-to-integer/)
+- [Sentinel Nodes](https://seneca-ictoer.github.io/data-structures-and-algorithms/E-Lists/sentinels)
+
+
