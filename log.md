@@ -287,4 +287,39 @@ It was a tough three days for me because there is a lot going on at school. But 
 - [Roman Integer](https://leetcode.com/problems/roman-to-integer/)
 - [Sentinel Nodes](https://seneca-ictoer.github.io/data-structures-and-algorithms/E-Lists/sentinels)
 
+## Day 29: June 02
+**Today's Progress**
+- Project Structure of Next.js
+- SSG vs SSR
+- Linear Search Recursive Algorithm
+- Binary Search Recursive Algorithm
+- Pages Router vs. App Router 
 
+**Link to Resource(s)**
+- [Next.js Rendering](https://nextjs.org/docs/pages/building-your-application/rendering)
+- [Linear Search Recursive](https://www.geeksforgeeks.org/recursive-c-program-linearly-search-element-given-array/)
+- [Binary Search Recursive](https://www.geeksforgeeks.org/binary-search/)
+
+## Days 30-32: June 3-5
+**Progress**
+- Dynamic routes
+- getStaticPaths
+- Solved leetcode problem
+
+**Thoughts** I'm amazed with how the framework made the difficulty of creating routes that easy.
+
+**Link to Resource(s)**
+- [Dynamic Routes](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes)
+- [getStaticPaths](https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+## Day 33: June 6
+**Today's Progress**
+- Applied the Next.js I learned from the past days by migrating the past TripsAPI to a next.js project.
+- Data Fetching using SWR
+- Link Component on Next.js 
+
+**Thoughts** All the ideas I learned made more sense when I started this project. Next would be to implement the content of a dynamic route from another source
+
+**Link to Resource(s)**
+- [SWR](https://swr.vercel.app/)
